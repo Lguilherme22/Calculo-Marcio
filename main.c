@@ -11,6 +11,22 @@ int factorial(unsigned int n) {
     return result;
 }
 
+// missing
+double arrangement(int withRepetition, int n, int k) {
+    int withoutRepetition = !withRepetition;
+
+    if (withoutRepetition) {
+        return 0.0;
+    }
+
+    if (withRepetition) {
+        return 0.0;
+    }
+
+    return 0.0;
+}
+
+// missing
 double permutation(int withRepetition, int n, int k) {
     int withoutRepetition = !withRepetition;
 
