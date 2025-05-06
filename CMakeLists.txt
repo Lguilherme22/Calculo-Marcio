@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.30)
-project(untitled1 C)
+project(Calculadora C)
 
-set(CMAKE_C_STANDARD 23)
+set(CMAKE_C_STANDARD 11)
 
-add_executable(untitled1 main.c)
+add_executable(Calculadora main.c)
