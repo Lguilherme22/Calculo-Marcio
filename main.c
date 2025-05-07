@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Felipe de Castro, Luis Guilherme e Renan Santos
 int factorial(unsigned int n) {
     int result = 1;
     for (int i = 2; i <= n; i++) {
